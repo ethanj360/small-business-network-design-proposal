@@ -74,5 +74,18 @@ The project includes both **initial fixed costs** and **ongoing operational cost
 - Technical and professional writing  
 
 ---
+
+## What I Learned
+
+This project helped me better understand how technical decisions should always start from **business needs**. Before choosing any hardware or software, I focused on understanding the company’s goals, constraints, and daily operations, which made the final network design more realistic and cost-effective.
+
+I also learned how infrastructure choices affect **day-to-day business operations**. Network topology, equipment reliability, and security tools all impact employee productivity, system uptime, and long-term maintenance costs. Designing a star topology with switch-based Ethernet simplified management and reduced future risk.
+
+Another important lesson was understanding the **total cost of ownership**, not just upfront expenses. Factoring in installation, maintenance, internet service, and recurring software costs made it clear how technology decisions directly influence budgeting and long-term planning.
+
+Overall, this project strengthened my ability to approach technical problems from a **business analyst perspective**, connecting operational requirements, technical solutions, and financial considerations into a clear, well-documented proposal.
+
+
+---
 ## Notes
-This project was created as an academic and portfolio piece to demonstrate real-world small business network design using industry-stan
+This project was created as an academic and portfolio piece to demonstrate real-world small business network design using industry-standard practices.
